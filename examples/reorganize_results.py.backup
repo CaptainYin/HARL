@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+import pandas as pd
+import re
+from collections import defaultdict
+
+def extract_model_id(model_path):
+    """Extract model ID from the model path"""
+    match = re.search(r'actor_agent0_(\d+)\.pt', model_path)
+    return match.group(1) if match else 'unknown'
+
+def reorganize_csv(input_file, output_file):
+    """Reorganize the CSV file to show each model as one row with success rates across scenarios"""
+    
+    # Read the CSV file
+    df = pd.read_csv(input_file, header=None, names=[
+        'task_name', 'scenario_name', 'matrix_name', 'algorithm', 
+        'agent_num', 'target_num', 'model_path', 'success_rate', 
+        'crash_rate', 'avg_cost'
+    ])
+    
+    # Extract model ID from model path
+    df['model_id'] = df['model_path'].apply(extract_model_id)
+    
+    # Create a unique model identifier
+    df['model_name'] = df['task_name'] + '_' + df['model_id']
+    
+    # Get unique scenarios
+    scenarios = sorted(df['scenario_name'].unique())
+    print(f"Found scenarios: {scenarios}")
+    
+    # Group by model and create pivot table
+    result_data = []
+    
+    for model_name in sorted(df['model_name'].unique()):
+        model_data = df[df['model_name'] == model_name]
+        
+        # Create a row for this model
+        row = {'model_name': model_name,'model_id': model_data['model_id'].iloc[0]}
+        
+        # Add success rate for each scenario
+        total_success_rate = 0
+        for scenario in scenarios:
+            scenario_data = model_data[model_data['scenario_name'] == scenario]
+            if not scenario_data.empty:
+                # If multiple entries for same scenario, take the average
+                success_rate = scenario_data['success_rate'].mean()
+                row[f'{scenario}'] = success_rate
+                total_success_rate += success_rate
+            else:
+                row[f'{scenario}'] = None
+        row['total_success_rate'] = total_success_rate
+        result_data.append(row)
+    
+    # Create result DataFrame
+    result_df = pd.DataFrame(result_data)
+    
+    # Reorder columns
+    column_order = ['model_name','model_id'] + [f'{scenario}' for scenario in scenarios]+['total_success_rate']
+    result_df = result_df[column_order]
+    
+    # Save to CSV
+    result_df.to_csv(output_file, index=False)
+    print(f"Reorganized data saved to {output_file}")
+    
+    return result_df
+
+if __name__ == "__main__":
+    input_file = "renderSRLORCA_Cube_ippo_icm001.csv"
+    output_file = "renderSRLORCA_Cube_ippo_icm001_reorganized.csv"
+
+    result_df = reorganize_csv(input_file, output_file)
+    
+    # Display the result
+    print("\nReorganized data preview:")
+    print(result_df.head(10))
+    print(f"\nTotal models: {len(result_df)}")
+    print(f"Shape: {result_df.shape}")

@@ -1,0 +1,2864 @@
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:54:51 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 01:57:13 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250614 02:01:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:05 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:05 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:06 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:06 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:06 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:07 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:08 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 70,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 60,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 60,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 70,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 70,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 60,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 30,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:09 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 100,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 80,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 70,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 10,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 40,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 60,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 50,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 20,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 20,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 80,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 20,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 90,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 60,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 10,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 60,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 60,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 30,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 60,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 80,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 60,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 60,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 90,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 60,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 60,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 90,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 60,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 40,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 50,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 30,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:10 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 60,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 80,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 70,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 70,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 70,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 70,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 70,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 80,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 60,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 70,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 70,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 80,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 80,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 5,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 40,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 70,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 90,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 80,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 100,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 90,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 100,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 50,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 80,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 10,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 90,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 10,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 10,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 30,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 20,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 20,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 20,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 30,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 30,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 60,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 40,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 60,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 60,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 70,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 40,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 60,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 80,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 80,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 70,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 40,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 80,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 90,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 60,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 70,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 60,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 60,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 80,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 60,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 60,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 50,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 50,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 60,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 70,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 70,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 70,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 70,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 50,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 80,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 90,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 100,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 90,goal_num 90,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 100,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 70,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 80,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250614 02:01:12 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 90,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+No protocol specified
+No protocol specified
+
+
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:26:04 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:32:22 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+Saved GIF: render_Warehouse_5_60_88.gif and PNG: render_Warehouse_5_60_88.png
+choose to use cpu...
+start rendering
+Saved GIF: render_Warehouse_5_60_141.gif and PNG: render_Warehouse_5_60_141.png
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:34:16 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 10,goal_num 100,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:35:17 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric euclidean, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:35:18 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:59:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:59:11 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric euclidean, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+No protocol specified
+
+[I 250617 00:59:48 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+[I 250617 00:59:49 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 60,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+No protocol specified
+
+No protocol specified
+
+[I 250617 01:00:15 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment greedy,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+No protocol specified
+
+No protocol specified
+
+[I 250617 01:00:33 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment lapjv,metric dijstra, num_agents 5,goal_num 70,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+No protocol specified
+
+No protocol specified
+
+[I 250617 01:02:05 on_policy_base_runner:623] task: MTSP1,scenario Warehouse,assignment AMARL,metric dijstra, num_agents 5,goal_num 80,model_dir /project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt
+choose to use cpu...
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering
+choose to use cpu...
+SimulationEnvironment_Warehouse_1000_20_roadmap.pkl
+start rendering
+choose to use cpu...
+start rendering

@@ -1,0 +1,38 @@
+scenario: Unmaze
+#'CA','Cube','Warehouse','Unmaze','scenario1','scenario2','scenario3','scenario6'
+task: "MTSP1"
+num_samples: 1000
+k: 20
+metric: "dijstra"
+#'euclidean','dijstra'
+assignment: "lapjv1"
+#'greedy','lapjv','AMARL'
+modelfile: "/project/MinMax-MTSP-master/partition/savemodel_homo_seq/deepset6.pt"
+assignmentEachStep: False
+
+obs_goal: False
+reachgoalset: False
+reward_type: "shaping"
+#wonderingpenalty,reachall,reachallandwonderingpenalty,binary,binaryreachall
+goal_num: 10
+num_agents: 10
+num_sensors: 32
+Car_resettype: random_target #diag
+fixed_theta: False
+
+turnoff_sensor: False
+add_sensor_noise: False
+sensor_gussian_noise: 0.01
+
+share_reward: True
+#########parameter for ORCA###########
+neighborDist: 2
+maxNeighbors: 10
+timeHorizon: 1
+timeHorizonObst: 1  
+
+save_history: True
+plot_traj: True
+traj_hold:  True
+plot_sensor_line: False
+ifi: 0.1  # Animation interval

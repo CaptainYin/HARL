@@ -1,0 +1,44 @@
+scenario: Unmaze
+#'CA','Cube','Warehouse','Unmaze','scenario1','scenario2','scenario3','scenario6','maze'
+task: "Normal"
+reborn: False
+#NHORCA
+num_samples: 1000
+k: 20
+metric: "dijstra"
+#'euclidean','dijstra'
+assignment: "lapjv1"
+#'greedy','lapjv','AMARL'
+modelfile: "/project/MinMax-MTSP-master/partition/savemodel_homo_seq/AMARL_test5.pt"
+assignmentEachStep: False
+fixed_maxsteps: False
+
+obs_goal: False
+reachgoalset: False
+reward_type: "shaping"
+#wonderingpenalty,reachall,reachallandwonderingpenalty,binary,binaryreachall,sn,shaping
+goal_num: 4
+num_agents: 4
+num_sensors: 32
+Car_resettype: random_target #diag  random_target
+fixed_theta: False # in MTSP mode, not only fixed theta, but also fix position
+
+turnoff_sensor: False
+add_sensor_noise: False
+sensor_gussian_noise: 0.01
+
+share_reward: True
+#########parameter for hybrid###########
+emergency_dis: 0.6
+PID_calaction_dis: 3.5
+#########parameter for ORCA###########
+neighborDist: 1.1
+maxNeighbors: 8
+timeHorizon: 0.3
+timeHorizonObst: 0.5  
+
+save_history: True
+plot_traj: True
+traj_hold:  True
+plot_sensor_line: False
+ifi: 0.1  # Animation interval

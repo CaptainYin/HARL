@@ -1,0 +1,172 @@
+# This is the configuration file for the MAPPO algorithm.
+seed:
+  # whether to use the specified seed
+  seed_specify: True
+  # seed
+  seed: 1
+device:
+  # whether to use CUDA
+  cuda: False
+  gpu_id: 0
+  # whether to set CUDA deterministic
+  cuda_deterministic: True
+  # arg to torch.set_num_threads
+  torch_threads: 4
+train:
+  # number of parallel environments for training data collection
+  n_rollout_threads: 20
+  # number of total training steps
+  num_env_steps: 20000000
+  # number of steps per environment per training data collection
+  episode_length: 100
+  # logging interval
+  log_interval: 10
+  # evaluation interval
+  eval_interval: 50
+  # whether to use ValueNorm
+  use_valuenorm: True
+  # whether to use linear learning rate decay
+  use_linear_lr_decay: False
+  # whether to consider the case of truncation when an episode is done
+  use_proper_time_limits: True
+  # if set, load models from this directory; otherwise, randomly initialise the models
+  # model_dir:  "/project/HARL-main/examples/results/lasercar/Warehouse/mappo/reachgoalset10V100/seed-00001-2025-09-09-03-05-49/models/actor_agent0_5000.pt"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/SRLORCA_10v10/seed-00001-2025-08-25-13-01-23/models/actor_agent0_5000.pt"
+  # "/project/HARL-main/examples/results/lasercar/mix/mappo/SRLORCA_mix_10v10/seed-00001-2025-08-25-13-02-29/models/actor_agent0_5000.pt"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/HPN2H_Cube_10v10/seed-00001-2025-06-13-09-21-58/models/actor_agent0_4950.pt" warehouse
+  #"/project/HARL-main/examples/results/lasercar/Cube/mappo/MAPPOLNHPN_Cube_4v4/seed-00001-2025-05-30-03-06-56/models"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/MAPPOLNHPN_Cube_10v10/seed-00001-2025-05-30-03-25-22/models"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/MAPPOHPN_Cube_4v4_randompos/seed-00001-2025-05-14-03-25-27/models"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/MAPPOHPN_Cube_5v5_randompos1/seed-00001-2025-05-14-15-39-29/models"
+  # "/project/HARL-main/examples/results/lasercar/Cube/mappo/MAPPOHPN_Cube_10v10_randompos1/seed-00001-2025-05-14-15-40-08/models"
+  # "/project/HARL-main/examples/results/lasercar/CA/mappo/nnhpnCA_scale10_rt_anum15_cnum15/seed-00001-2025-05-12-10-14-16/models"
+  # "/project/HARL-main/examples/results/lasercar/CA/mappo/nnhpnCA_scale10_rt_anum10_cnum10/seed-00001-2025-05-12-10-13-17/models"
+  # "/project/HARL-main/examples/results/lasercar/CA/mappo/nnhpnCA_scale10_rt_anum5_cnum5/seed-00001-2025-05-12-10-12-39/models"
+  # "/project/HARL-main/examples/results/lasercar/CA/mappo/nnhpnCA_scale10_rt_anum4_cnum4/seed-00001-2025-05-12-10-11-36/models"
+  
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnhpn_scale10_rt_anum30_cnum30/seed-00001-2025-05-11-13-51-27/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnhpn_scale10_rt_anum20_cnum20/seed-00001-2025-05-11-13-50-25/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnhpn_scale10_rt_anum15_cnum15/seed-00001-2025-05-10-14-27-04/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnhpn_scale10_rt_anum10_cnum10/seed-00001-2025-05-10-14-24-00/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnhpn_scale10_rt_anum5_cnum5/seed-00001-2025-05-12-23-49-00/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnpureMLP_scale10_rt/seed-00001-2025-05-10-06-34-36/models"
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/mappo/nnpureMLP_scale10_rt_citichpn/seed-00001-2025-05-10-08-02-51/models"
+  model_dir: ~
+  # model_name: "mappo_hpn_Unmaze_10v10"
+csvfile: "render1.csv"
+eval:
+  # whether to use evaluation
+  use_eval: True
+  # number of parallel environments for evaluation
+  n_eval_rollout_threads: 25
+  # number of episodes per evaluation
+  eval_episodes: 100
+render:
+  # whether to use render
+  use_render: False
+  use_parallel_render: False
+  # number of episodes to render
+  render_episodes: 100
+model:
+  # network parameters
+  # transformer_structure: [4, 64, 4]
+  #n_block, n_embd, n_head
+  # actor_hpn_structure: [37, [3, 5], [4, 3], 2, 64]
+  # #[35, [3, 5], [4, 3], 1, 128],[3, [3, 5], [4, 3], 1, 128]
+  critic_hpn_structure: [0, [4, 7], [0, 3], 2, 64]
+  critic_hpn: True
+  # #[0, [4, 7], [4, 3], 2, 64],[0, [4, 7], [0, 3], 2, 64]
+
+  # actor_deepset_structure: [37, [3, 5], [4, 3]]
+  #[35, [3, 5], [4, 3]],[3, [3, 5], [4, 3]]
+  # critic_deepset_structure: [0, [4, 7], [0, 3]]
+  #[0, [4, 7], [4, 3]],[0, [4, 7], [0, 3]]
+
+  use_self_attention: False
+  # hidden_sizes: [128, 128]         # first entry is embedding dim
+  self_attn_n_blocks: 2             # number of attention blocks
+  self_attn_n_heads: 8              # attention heads
+  self_attn_ff_ratio: 4.0           # feedforward expansion
+  self_attn_dropout: 0.1             # optional
+  
+  use_curiosity: False
+  curiosity_coef: 0.01
+  curiosity_loss_coef: 0.1
+  curiosity_hidden_sizes: [256, 256]
+  curiosity_lr: 0.0003   # optional; defaults to actor lr if omitted
+
+  # hidden sizes for mlp module in the network
+  hidden_sizes: [128, 128]
+  # activation function, choose from sigmoid, tanh, relu, leaky_relu, selu
+  activation_func: relu
+  # whether to use feature normalization
+  use_feature_normalization: True
+  # initialization method for network parameters, choose from xavier_uniform_, orthogonal_, ...
+  initialization_method: orthogonal_
+  # gain of the output layer of the network.
+  gain: 0.01
+  # recurrent parameters
+  # whether to use rnn policy (data is not chunked for training)
+  use_naive_recurrent_policy: False
+  # whether to use rnn policy (data is chunked for training)
+  use_recurrent_policy: False
+  # number of recurrent layers
+  recurrent_n: 1
+  # length of data chunk; only useful when use_recurrent_policy is True; episode_length has to be a multiple of data_chunk_length
+  data_chunk_length: 10
+  # optimizer parameters
+  # actor learning rate
+  lr: 0.0005
+  # critic learning rate
+  critic_lr: 0.0005
+  # eps in Adam
+  opti_eps: 0.00001
+  # weight_decay in Adam
+  weight_decay: 0
+  # parameters of diagonal Gaussian distribution
+  std_x_coef: 1
+  # parameters of diagonal Gaussian distribution
+  std_y_coef: 0.5
+algo:
+  # ppo parameters
+  # number of epochs for actor update
+  ppo_epoch: 5
+  # number of epochs for critic update
+  critic_epoch: 5
+  # whether to use clipped value loss
+  use_clipped_value_loss: True
+  # clip parameter
+  clip_param: 0.2
+  # number of mini-batches per epoch for actor update
+  actor_num_mini_batch: 1
+  # number of mini-batches per epoch for critic update
+  critic_num_mini_batch: 1
+  # coefficient for entropy term in actor loss
+  entropy_coef: 0.01
+  # coefficient for value loss
+  value_loss_coef: 1
+  # whether to clip gradient norm
+  use_max_grad_norm: True
+  # max gradient norm
+  max_grad_norm: 10.0
+  # whether to use Generalized Advantage Estimation (GAE)
+  use_gae: True
+  # discount factor
+  gamma: 0.99
+  # GAE lambda
+  gae_lambda: 0.95
+  # whether to use huber loss
+  use_huber_loss: True
+  # whether to use policy active masks
+  use_policy_active_masks: True
+  # huber delta
+  huber_delta: 10.0
+  # method of aggregating the probability of multi-dimensional actions, choose from prod, mean
+  action_aggregation: prod
+  # whether to share parameter among actors
+  share_param: True
+  # whether to use a fixed optimisation order
+  fixed_order: True
+logger:
+  # logging directory
+  log_dir: "./results"

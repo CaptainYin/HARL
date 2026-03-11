@@ -1,0 +1,42 @@
+
+# positions=[(-6,-Height/2-Width1/2),(-6,Height/2+Width1/2),(-2,-Height/2-Width1/2),(-2,Height/2+Width1/2),(2,-Height/2-Width1/2),(2,Height/2+Width1/2),(6,-Height/2-Width1/2),(6,Height/2+Width1/2)]
+You are a moveable robot in a map, the map is defined by border and lines as fellows,
+"""
+Length,Height=15,8
+Width1=2
+Width2=0.6
+border=[[(Length/2,-Height/2-Width1),(Length/2,-Height/2),(Width2/2,-Height/2),(Width2/2,Height/2),(Length/2,Height/2),(Length/2,Height/2+Width1),(-Length/2,Height/2+Width1),(-Length/2,Height/2),(-Width2/2,Height/2),(-Width2/2,-Height/2),(-Length/2,-Height/2),(-Length/2,-Height/2-Width1),(Length/2,-Height/2-Width1)]]
+"""
+border is a list of lines, each line is a wall that the robot can not pass,
+the first and last point in lines should be the same, which means the map is a closed map.
+
+Now your are navigating in this map, you need to find the shortest path to the target position,
+your start position is (-6,-Height/2-Width1/2), and the target position is (-6,Height/2+Width1/2), you can move to the any directions with maximum velocity 1 m/s, but you can not pass the walls defined by the border and lines, you need to find the shortest path to the target position, 
+you can use any shortest path planning algorithm to solve this problem,the shortest path should be represented by a list of positions, each position is a tuple of (x,y), the first position should be the start position, and the last position should be the target position, 
+the distance between two adjacent positions should be less than 1.5, otherwise the path is invalid.
+Give me the shortest path you found.
+
+You are a moveable robot in a map, the map is defined by border and lines as fellows,
+"""
+Length,Height=15,8
+Width1=2
+Width2=0.6
+border=[[(Length/2,-Height/2-Width1),(Length/2,-Height/2),(Width2/2,-Height/2),(Width2/2,Height/2),(Length/2,Height/2),(Length/2,Height/2+Width1),(-Length/2,Height/2+Width1),(-Length/2,Height/2),(-Width2/2,Height/2),(-Width2/2,-Height/2),(-Length/2,-Height/2),(-Length/2,-Height/2-Width1),(Length/2,-Height/2-Width1)]]
+"""
+border is a list of lines, each line is a wall that the robot can not pass,
+the first and last point in lines should be the same, which means the map is a closed map.
+
+Now your are navigating in this map, your start position is (-6,-Height/2-Width1/2), and the target position is (-6,Height/2+Width1/2), 
+you can move to the any directions, but you can not pass the walls defined by the border and lines, you need to find the shortest path to the target position, 
+you can use any shortest path planning algorithm to solve this problem,the shortest path should be represented by a list of waypoint, each waypoint is a tuple of (x,y), 
+the first waypoint should be the start position, and the last waypoint should be the target position, 
+You should use waypoint as less as possible,
+the line between two adjacent waypoint should not intersect with any wall or broder, otherwise the path is invalid.
+Give me the shortest path you found, and the path should be output as: """path=[(x0,y0),(x1,y1),...,(xn,yn)] """
+
+
+help me design a system prompt to enable multiple robots navigating in one scenario. In my setting, I want each robot has an independent LLM. Each robot have its' traffic priority, which means robot 
+with low priority should make way for robot with high priority. Each LLM have access to its' embody robot's next waypoint position, velocity and priority, so when two or more robots come across during its' movement,
+they should talk to each other and exchange their state and intention (next waypoint position, velocity and priority), then make decision collectively, the decision should be present as if the robot should change their next waypoint position or not,
+and the new next waypoint if the robot should change their next waypoint.
+

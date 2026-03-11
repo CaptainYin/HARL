@@ -1,0 +1,93 @@
+# Default config for IPPO (Independent PPO)
+seed:
+  seed_specify: True
+  seed: 1
+
+device:
+  cuda: False
+  gpu_id: 0
+  cuda_deterministic: True
+  torch_threads: 4
+
+train:
+  n_rollout_threads: 20
+  num_env_steps: 10000000
+  episode_length: 100
+  log_interval: 10
+  eval_interval: 50
+  use_valuenorm: True
+  use_linear_lr_decay: False
+  use_proper_time_limits: True
+  model_dir: ~
+  # "/project/HARL-main/examples/results/lasercar/Unmaze/ippo/ippo_test/seed-00001-2025-09-07-12-11-40/models/actor_agent0_200.pt"
+# "/project/HARL-main/examples/results/lasercar/Cube/ippo/Mtsp1_Cube_ippo_selfatt/seed-00001-2025-09-19-02-05-17/models/actor_agent0_5000.pt"
+# "/project/HARL-main/examples/results/lasercar/Cube/ippo/Mtsp1_Cube_ippo_Long2018/seed-00001-2025-09-19-01-30-37/actor_agent0_5000.pt"
+csvfile: "render1.csv"
+eval:
+  use_eval: True
+  n_eval_rollout_threads: 20
+  eval_episodes: 20
+
+render:
+  use_render: False
+  use_parallel_render: False
+  render_episodes: 10
+  save_gifs: False
+  gif_interval: 50
+
+model:
+  hidden_sizes: [128, 128]
+  activation_func: relu
+  use_feature_normalization: True
+  initialization_method: orthogonal_
+  gain: 0.01
+  use_naive_recurrent_policy: False
+  use_recurrent_policy: False
+  recurrent_n: 1
+  data_chunk_length: 10
+  lr: 0.0005
+  critic_lr: 0.0005
+  opti_eps: 0.00001
+  weight_decay: 0
+  std_x_coef: 1
+  std_y_coef: 0.5
+
+  use_curiosity: False
+  curiosity_coef: 0.01
+  curiosity_loss_coef: 0.1
+  curiosity_hidden_sizes: [256, 256]
+  curiosity_lr: 0.0003   # optional; defaults to actor lr if omitted
+
+  use_self_attention: False
+  # hidden_sizes: [128, 128]         # first entry is embedding dim
+  self_attn_n_blocks: 2             # number of attention blocks
+  self_attn_n_heads: 8              # attention heads
+  self_attn_ff_ratio: 4.0           # feedforward expansion
+  self_attn_dropout: 0.1             # optional
+
+  # transformer_structure: [4, 64, 4]
+
+algo:
+  # PPO settings
+  ppo_epoch: 5
+  critic_epoch: 5
+  use_clipped_value_loss: True
+  clip_param: 0.2
+  actor_num_mini_batch: 1
+  critic_num_mini_batch: 1
+  entropy_coef: 0.01
+  value_loss_coef: 1
+  use_max_grad_norm: True
+  max_grad_norm: 10.0
+  use_gae: True
+  gamma: 0.99
+  gae_lambda: 0.95
+  use_huber_loss: True
+  use_policy_active_masks: True
+  huber_delta: 10.0
+  action_aggregation: prod
+  share_param: True  # Independent policies per agent
+  fixed_order: False
+
+logger:
+  log_dir: "./results"
