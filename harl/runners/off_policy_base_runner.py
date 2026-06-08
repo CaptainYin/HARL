@@ -412,6 +412,8 @@ class OffPolicyBaseRunner:
                 else:
                     self.log_file.write( ",".join(map(str, [step, eval_avg_rew, eval_avg_len])) + "\n")
                 self.log_file.flush()
+                if "smac" in self.args["env"]:
+                    self.writter.add_scalar("eval_win_rate", eval_battles_won / eval_episode, step)
                 self.writter.add_scalar("eval_average_episode_rewards", eval_avg_rew, step)
                 self.writter.add_scalar("eval_average_episode_length", eval_avg_len, step)
                 break

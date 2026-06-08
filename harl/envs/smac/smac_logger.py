@@ -139,9 +139,19 @@ class SMACLogger(BaseLogger):
     def eval_init(self):
         super().eval_init()
         self.eval_battles_won = 0
+        self.eval_episode_lens = []
+        self.eval_one_episode_len = np.zeros(
+            self.algo_args["eval"]["n_eval_rollout_threads"], dtype=np.int32
+        )
+
+    def eval_per_step(self, eval_data):
+        super().eval_per_step(eval_data)
+        self.eval_one_episode_len += 1
 
     def eval_thread_done(self, tid):
         super().eval_thread_done(tid)
+        self.eval_episode_lens.append(self.eval_one_episode_len[tid].copy())
+        self.eval_one_episode_len[tid] = 0
         if self.eval_infos[tid][0][self.win_key] == True:
             self.eval_battles_won += 1
 
@@ -150,8 +160,12 @@ class SMACLogger(BaseLogger):
             [rewards for rewards in self.eval_episode_rewards if rewards]
         )
         eval_win_rate = self.eval_battles_won / eval_episode
+        eval_average_episode_length = (
+            np.mean(self.eval_episode_lens) if len(self.eval_episode_lens) > 0 else 0.0
+        )
         eval_env_infos = {
             "eval_average_episode_rewards": self.eval_episode_rewards,
+            "eval_average_episode_length": [eval_average_episode_length],
             "eval_max_episode_rewards": [np.max(self.eval_episode_rewards)],
             "eval_win_rate": [eval_win_rate],
         }

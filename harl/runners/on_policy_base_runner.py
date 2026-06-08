@@ -115,6 +115,11 @@ class OnPolicyBaseRunner:
         #     print(name, ':', parameters.size())
         # exit()
 
+    def _ep_share_obs(self, share_obs):
+        if share_obs.ndim == 3 and share_obs.shape[1] == self.num_agents:
+            return share_obs[:, 0]
+        return share_obs
+
     def run(self):
         """Run the training (or rendering) pipeline."""
         if self.algo_args["render"]["use_render"] is True:
@@ -172,7 +177,7 @@ class OnPolicyBaseRunner:
                 self.actor_buffer[agent_id].available_actions[0] = available_actions[ :, agent_id ].copy()
         if self.state_type == "EP":
             # self.critic_buffer.share_obs[0] = share_obs[:, 0].copy()
-            self.critic_buffer.share_obs[0] = share_obs.copy()# yinheqing 2025.4.1 for lasercar
+            self.critic_buffer.share_obs[0] = self._ep_share_obs(share_obs).copy()
         elif self.state_type == "FP":
             # self.critic_buffer.share_obs[0] = share_obs.copy()
             self.critic_buffer.share_obs[0] = obs.copy() 
@@ -192,7 +197,17 @@ class OnPolicyBaseRunner:
             obs_con=np.concatenate([self.actor_buffer[agent_id].obs[step] for agent_id in range(self.num_agents)])
             rnn_states_con=np.concatenate([self.actor_buffer[agent_id].rnn_states[step] for agent_id in range(self.num_agents)])
             masks_con=np.concatenate([self.actor_buffer[agent_id].masks[step] for agent_id in range(self.num_agents)])
-            action, action_log_prob, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,None)
+            available_actions_con = (
+                np.concatenate(
+                    [
+                        self.actor_buffer[agent_id].available_actions[step]
+                        for agent_id in range(self.num_agents)
+                    ]
+                )
+                if self.actor_buffer[0].available_actions is not None
+                else None
+            )
+            action, action_log_prob, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,available_actions_con)
             actions=_t2n(action.reshape(self.num_agents,self.rollout_threads,*action.shape[1:])).transpose(1, 0, 2)
             action_log_probs=_t2n(action_log_prob.reshape(self.num_agents,self.rollout_threads,*action_log_prob.shape[1:])).transpose(1, 0, 2)
             rnn_states=_t2n(rnn_state.reshape(self.num_agents,self.rollout_threads,*rnn_state.shape[1:])).transpose(1, 0, 2,3)
@@ -271,7 +286,7 @@ class OnPolicyBaseRunner:
         if self.state_type == "EP":
             self.critic_buffer.insert(
                 # share_obs[:, 0],
-                share_obs,# yinheqing 2025.4.1 for lasercar
+                self._ep_share_obs(share_obs),
                 rnn_states_critic, values, rewards[:, 0], masks[:, 0], bad_masks, )
         elif self.state_type == "FP":
             # self.critic_buffer.insert( share_obs, rnn_states_critic, values, rewards, masks, bad_masks )
@@ -320,7 +335,18 @@ class OnPolicyBaseRunner:
                 obs_con=np.concatenate([eval_obs[:, agent_id] for agent_id in range(self.num_agents)])
                 rnn_states_con=np.concatenate([eval_rnn_states[:, agent_id] for agent_id in range(self.num_agents)])
                 masks_con=np.concatenate([eval_masks[:, agent_id] for agent_id in range(self.num_agents)])
-                action, _, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,None,deterministic=True)
+                available_actions_con = (
+                    np.concatenate(
+                        [
+                            eval_available_actions[:, agent_id]
+                            for agent_id in range(self.num_agents)
+                        ]
+                    )
+                    if eval_available_actions is not None
+                    and eval_available_actions[0] is not None
+                    else None
+                )
+                action, _, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,available_actions_con,deterministic=True)
                 eval_actions=_t2n(action.reshape(self.num_agents,self.algo_args["eval"]["n_eval_rollout_threads"],*action.shape[1:])).transpose(1, 0, 2)
                 eval_rnn_states=_t2n(rnn_state.reshape(self.num_agents,self.algo_args["eval"]["n_eval_rollout_threads"],*rnn_state.shape[1:])).transpose(1, 0, 2,3)
             else:
@@ -413,7 +439,17 @@ class OnPolicyBaseRunner:
                         obs_con=np.concatenate([eval_obs[:, agent_id] for agent_id in range(self.num_agents)])
                         rnn_states_con=np.concatenate([eval_rnn_states[:, agent_id] for agent_id in range(self.num_agents)])
                         masks_con=np.concatenate([eval_masks[:, agent_id] for agent_id in range(self.num_agents)])
-                        action, _, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,None,deterministic=True)
+                        available_actions_con = (
+                            np.concatenate(
+                                [
+                                    eval_available_actions[:, agent_id]
+                                    for agent_id in range(self.num_agents)
+                                ]
+                            )
+                            if eval_available_actions is not None
+                            else None
+                        )
+                        action, _, rnn_state = self.actor[0].get_actions(obs_con,rnn_states_con,masks_con,available_actions_con,deterministic=True)
                         eval_actions=_t2n(action.reshape(self.num_agents,self.env_num,*action.shape[1:])).transpose(1, 0, 2)
                         eval_rnn_states=_t2n(rnn_state.reshape(self.num_agents,self.env_num,*rnn_state.shape[1:])).transpose(1, 0, 2,3)
                     else:

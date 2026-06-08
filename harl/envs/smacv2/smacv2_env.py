@@ -22,7 +22,7 @@ class SMACv2Env:
 
     def step(self, actions):
         processed_actions = np.squeeze(actions, axis=1).tolist()
-        reward, terminated, info = self.env.step(actions)
+        reward, terminated, info = self.env.step(processed_actions)
         obs = self.env.get_obs()
         state = self.repeat(self.env.get_state())
         rewards = [[reward]] * self.n_agents
