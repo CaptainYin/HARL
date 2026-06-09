@@ -1,7 +1,19 @@
 ##### Project Specification #####
 **/results/**
 .VSCodeCounter/
-
+results/
+.ruff_cache/
+examples/
+assets/
+*.jpg
+*.png
+*.gif
+*.pkl
+*.csv
+*.xlsx
+*.tar
+*.tar.gz
+*.tgz
 ##### Python.gitignore #####
 # Byte-compiled / optimized / DLL files
 __pycache__/
